@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartAPI", "ChartAPI.csproj", "{38BC2E9A-38BD-42A9-A727-147A262C3DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BC2E9A-38BD-42A9-A727-147A262C3DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BC2E9A-38BD-42A9-A727-147A262C3DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BC2E9A-38BD-42A9-A727-147A262C3DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BC2E9A-38BD-42A9-A727-147A262C3DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7835DCCD-9BD2-41F1-9064-2A1E820D2843}
+	EndGlobalSection
+EndGlobal
